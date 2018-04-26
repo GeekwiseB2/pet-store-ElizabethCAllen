@@ -1,0 +1,55 @@
+/*helper classes*/
+.pull-right{
+  float: right;
+}
+.pull-left{
+  float:left;
+}
+
+/*helper classes end*/
+/* navbar */
+.pupper{
+  max-height: 70px;
+}
+.logo-text{
+  display:inline-block;
+  font-family: 'Satisfy', cursive;
+  color: #ff827B;
+  font-size: 36px;
+  margin-top: 30px;
+
+}
+/* end navbar */
+
+/* begin ju[mbotron */
+.jumbotron{
+  background-image: url('../img/hero.jpg');
+  background-size: cover;
+  height:450px;
+  background-position: center;
+}
+.jumbotron h2{
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color:white;
+}
+/* end jumbotron */
+/* begin columns */
+.thumbnail{
+  background-color: #edf1f4;
+}
+footer{
+  background-color:#333;
+  padding:30px;
+}
+.border-left{
+  border-left:2px solid #505050;
+
+}
+.text-thing{
+  text-decoration: none;
+  color:gray;
+}
+.icon-color{
+  color:gray;
+}
